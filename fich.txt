@@ -1,0 +1,11 @@
+function deductNumber (a, b) {
+  return a - b;
+}
+
+ hi
+
+function deductNumber (a, b) {
+  return a - b;
+}
+
+ hi
