@@ -1,0 +1,11 @@
+function deductNumber (a, b) {
+  return a - b;
+}
+
+kuku
+
+function deductNumber (a, b) {
+  return a - b;
+}
+
+kuku
